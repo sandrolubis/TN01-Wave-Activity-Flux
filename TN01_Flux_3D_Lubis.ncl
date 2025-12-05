@@ -3,6 +3,7 @@
 ; 3-D wave-activity flux derived by Takaya and Nakamura (1999, 2001)
 ; See (38) of Takaya and Nakamura (2001, JAS)
 ; Dr. Sandro Lubis M.Sc - GEOMAR
+; Current Affiliation: PNNL
 
 ;==============================================================================
 
