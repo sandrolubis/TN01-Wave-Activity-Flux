@@ -3,7 +3,7 @@
 NCL implementation of the quasi-geostrophic wave-activity flux formulated by Takaya & Nakamura (1997, 2001).  
 This script computes horizontal wave-activity flux components (Fx, Fy) and the QG streamfunction anomaly (ψ′) at a given pressure level.
 
-Originally developed by **Sandro W. Lubis** (GEOMAR, 2014; updated 2016).
+By **Sandro W. Lubis** (GEOMAR, 2014; updated 2016).
 
 ---
 
