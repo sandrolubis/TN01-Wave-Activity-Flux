@@ -5,7 +5,9 @@ This script computes horizontal wave-activity flux components (Fx, Fy) and the Q
 
 By **Sandro W. Lubis** (PNNL). The code has been used in several studies of large-scale teleconnections and extreme events, including:
 
-Lubis et al. (2024), Enhanced Pacific Northwest heat extremes and wildfire risks induced by the boreal summer intraseasonal oscillation, npj Climate and Atmospheric Science.
+Lubis, S. W., Chen, Z., Lu, J., Hagos, S., Chang, C.-C., & Leung, L. R. (2024).
+Enhanced Pacific Northwest heat extremes and wildfire risks induced by the boreal summer intraseasonal oscillation.
+npj Climate and Atmospheric Science. https://doi.org/10.1038/s41612-024-00766-3
 
 ---
 
