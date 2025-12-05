@@ -1,6 +1,6 @@
 # Takaya–Nakamura Wave-Activity Flux (NCL) by **Sandro W. Lubis** (PNNL)
 
-This repository provides an NCL implementation of the quasi-geostrophic wave-activity flux formulated by Takaya & Nakamura (2001). This script computes horizontal wave-activity flux components (Fx, Fy) and the QG streamfunction anomaly (ψ′) at a given pressure level. The code has been used in several studies of large-scale teleconnections and extreme events, including:
+This repository provides an NCL implementation of the quasi-geostrophic wave-activity flux formulated by Takaya & Nakamura (2001). This script computes horizontal wave-activity flux components (Fx, Fy) and the QG streamfunction anomaly (ψ′) at a given pressure level. The code has been used in several studies of large-scale teleconnections and extreme events, including the following (please cite these if you use the code):
 
 Lubis, S. W., Chen, Z., Lu, J., Hagos, S., Chang, C.-C., & Leung, L. R. (2024).
 Enhanced Pacific Northwest heat extremes and wildfire risks induced by the boreal summer intraseasonal oscillation.
