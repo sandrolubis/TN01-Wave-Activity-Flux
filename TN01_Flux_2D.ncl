@@ -53,9 +53,9 @@ ufile = addfile("./input/climo/u200.seas.nc","r")
 vfile = addfile("./input/climo/v200.seas.nc","r")
 zfile = addfile("./input/climo/z200.seas.nc","r")
 
-cuvar = ufile->var131(2,0,:,:) ; jja
-cvvar = vfile->var132(2,0,:,:) ; jja
-czvar = zfile->var129(2,0,:,:) ; jja
+cuvar = ufile->var131(2,0,:,:) ; jja clim
+cvvar = vfile->var132(2,0,:,:) ; jja clim
+czvar = zfile->var129(2,0,:,:) ; jja clim
 
 printVarSummary(czvar)
 printVarSummary(cuvar)
@@ -66,7 +66,7 @@ printVarSummary(cvvar)
   do year=1979,2021
      print(year)
 
-zfile = addfile("/glade/p/univ/uchi0007/ERA5_Data/Z/daily/z200/anom/z3."+year+".nc","r") ; already in geopotential daily anom
+zfile = addfile("/glade/p/univ/uchi0007/ERA5_Data/Z/daily/z200/anom/z3."+year+".nc","r") ; already in geopotential daily anomaly
 zvar = zfile->var129(:,{20000:20000},:,:)
 printVarSummary(zvar)
 
