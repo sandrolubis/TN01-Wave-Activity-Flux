@@ -1,6 +1,6 @@
 # Takaya–Nakamura Wave-Activity Flux (NCL)
 
-This repository provides an NCL implementation of the quasi-geostrophic wave-activity flux formulated by Takaya & Nakamura (1997, 2001).  
+This repository provides an NCL implementation of the quasi-geostrophic wave-activity flux formulated by Takaya & Nakamura (2001).  
 This script computes horizontal wave-activity flux components (Fx, Fy) and the QG streamfunction anomaly (ψ′) at a given pressure level.
 
 By **Sandro W. Lubis** (PNNL). The code has been used in several studies of large-scale teleconnections and extreme events, including:
